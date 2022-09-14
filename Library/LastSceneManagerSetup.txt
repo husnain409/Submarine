@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Underwater_FX/Underwater_FX.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
